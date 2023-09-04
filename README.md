@@ -5,6 +5,6 @@ This is the official repository of the **YUTO** dataset.
 
 YUTO dataset is a multi-mission large-scale aerial LiDAR dataset specifically designed for 3D point cloud semantic segmentation. The dataset comprises approximately 738 million points, covering an area of 9.46 square kilometers of York University Campus in Toronto, Ontario Canada.  Each point in the dataset is annotated with one of nine semantic classes.
 
-<p align="center"> <img src="imgs/YUTO release date.png" width="100%"> </p>
+<p align="center"> <img src="imgs/YUTO release date.PNG" width="100%"> </p>
 
 Details of the dataset can be found in ISPRS GSW 2023
