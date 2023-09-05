@@ -31,6 +31,7 @@ At this time, we are releasing one mission, Galaxy 2018 Fall. We are planning to
 * Class: The label assigned to each point, representing the semantic class or category of the object or surface the point belongs to.
 
 ### Semantic Segmentation Results
+New results will be updated.
 
 | Method          | OA     | mIoU   | ground   | vegetaion | building | water | car | truck   | traffic road    | sidewalk  | parking |
 |------------------|--------|--------|--------|----------|---------|----------|-----------|--------|--------|--------|--------|
@@ -41,3 +42,10 @@ At this time, we are releasing one mission, Galaxy 2018 Fall. We are planning to
 
 ### Downloads
 Coming Soon! We will upload the downloading link by the end of September!
+
+
+### Citation
+Coming soon
+
+### Acknowledgements
+This data set is collected with Teledyne Optech's Galaxy LiDAR.
