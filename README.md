@@ -52,7 +52,7 @@ This data set is collected with Teledyne Optech's Galaxy LiDAR.
 
 
 ### To DO List
-*Sharing downloading link.
-*Adding citation.
-*Uploading training code.
-*releasing rest of missions.
+* Sharing downloading link.
+* Adding citation.
+* Uploading training code.
+* releasing rest of missions.
