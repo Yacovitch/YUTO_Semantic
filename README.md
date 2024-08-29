@@ -35,24 +35,26 @@ New results will be updated.
 
 | Method          | OA     | mIoU   | ground   | vegetaion | building | water | car | truck   | traffic road    | sidewalk  | parking |
 |------------------|--------|--------|--------|----------|---------|----------|-----------|--------|--------|--------|--------|
-|RandLA (Hu et al., 2020)| 84.19| 58.37| 80.61| 94.44| 95.39| 3.34| 74.59| 13.87| 78.10| 23.43| 61.56|
-|KPConv (Thomas et al., 2019)| 85.22| 56.14| 86.94| 96.25| 94.01| 0.00| 84.02| 0.00| 79.93| 3.26| 60.83|
-|EyeNet (Yoo et al., 2023)| 87.41| 63.44| 86.26| 95.94| 96.78| 13.61| 83.02| 14.26| 84.65| 31.08| 65.34|
-
-
-### Downloads
-Coming Soon! We will upload the downloading link by the end of September!
+|PointNet| --| 33.22| 74.5| 76.8| 63.3| 0| 39.94| 0| 15.1| 0| 29.8|
+|PointNet ++| --| 26.16| 68.10| 66.70| 31.80| 0| 14.10| 0| 26.00| 2,50| 26.20|
+|SPG | --| 36.68| 79.31| 97.92| 0.00| 57.37| 0.00| 36.92| 0.39| 39.51| 0.00|
+|SFL-Net | --| 51.05| 80.91| 94.10| 88.33| 0.00| 74.47| 0.00| 53.71| 23.08| 44.81|
+|RandLA | 84.19| 58.37| 80.61| 94.44| 95.39| 3.34| 74.59| 13.87| 78.10| 23.43| 61.56|
+|KPConv | 85.22| 56.14| 86.94| 96.25| 94.01| 0.00| 84.02| 0.00| 79.93| 3.26| 60.83|
+|EyeNet | 87.41| 63.44| 86.26| 95.94| 96.78| 13.61| 83.02| 14.26| 84.65| 31.08| 65.34|
 
 
 ### Citation
-Coming soon
+If you find this work useful, please consider citing our work!
+  @article{yoo2023yuto,
+    title={Yuto Semantic: a Large Scale Aerial LIDAR Dataset for Semantic Segmentation},
+    author={Yoo, S and Ko, C and Sohn, G and Lee, H},
+    journal={The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+    volume={48},
+    pages={209--215},
+    year={2023},
+    publisher={Copernicus GmbH}
+  }
 
 ### Acknowledgements
 This data set is collected with Teledyne Optech's Galaxy LiDAR.
-
-
-### To DO List
-* Sharing downloading link.
-* Adding citation.
-* Uploading training code.
-* releasing rest of missions.
