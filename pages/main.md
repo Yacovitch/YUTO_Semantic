@@ -1,6 +1,7 @@
 ---
 title: Welcome 252
 tags: TeXt
+layout: article
 ---
 
 If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:

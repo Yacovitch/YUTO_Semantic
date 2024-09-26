@@ -205,6 +205,7 @@
   table {
     display: block;
     width: 100%;
+    font-size: 15px;
     border-collapse: collapse;
     @include overflow(auto);
     thead, tfoot {

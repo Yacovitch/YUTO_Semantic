@@ -1,3 +1,24 @@
 /* start custom scss snippet */
+@import url(https://fonts.googleapis.com/css?family=Monoton);
+
+.header__brand {
+    font-family: 'Monoton', sans-serif;
+    font-size: 50px;
+}
+
+.header__brand > a {
+    font-size: 0.7em;
+}
+
+.header__brand > svg {
+    width: 3vw;
+    height: 3vw;
+}
+
+.header__title {
+    height: 10vh;  // Set the height to 100% of the viewport height
+}
+
+
 
 /* end custom scss snippet */
