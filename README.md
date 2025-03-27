@@ -7,6 +7,8 @@ This is the official repository of the **YUTO Semantic** dataset.
 
 YUTO Semantic is a multi-mission large-scale aerial LiDAR dataset specifically designed for 3D point cloud semantic segmentation. The dataset comprises approximately 738 million points, covering an area of 9.46 square kilometers of York University Campus in Toronto, Ontario Canada.  Each point in the dataset is annotated with one of nine semantic classes.
 
+Downloads are available at https://huggingface.co/datasets/ausmlab/yuto-semantic
+
 <p align="center"> <img src="imgs/YUTO release date.PNG" width="100%"> </p>
 
 At this time, we are releasing one mission, Galaxy 2018 Fall. We are planning to release the rest of the missions. Details of the dataset can be found in ISPRS GSW 2023.
